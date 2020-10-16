@@ -1,4 +1,4 @@
-# validationJobSample
+# validationJobSample for a weeklyPlanner
 
 Java development with Jenkins Job configuration.
 

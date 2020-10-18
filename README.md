@@ -46,3 +46,4 @@ Validation Job Creation
 - Add the link to your Github Project "this repo url"
 - Add shell command... sh "mvn clean test -P $ENVIRONMENT -U -DskipTests=false"
 
+You can run this ValidationJob using different parameters (each environment).
